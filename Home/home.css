@@ -1,0 +1,120 @@
+body {
+  background-color: #f5f5f5;
+}
+
+.cc-hover {
+  transition: all 0.2s;
+}
+
+.cc-hover:hover {
+  background-color: rgba(112, 90, 145, 0.2);
+  color: #fff;
+}
+
+.navbar-nav .nav-item {
+  margin: 0 15px;
+}
+
+.showcase {
+  position: relative;
+  color: #fff;
+}
+
+.showcase .card-body {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 60%;
+  transform: translate(-50%, -50%);
+}
+.cc-card-text {
+  text-align: justify;
+}
+.testimonial {
+  background-color: #000;
+}
+
+.cc-img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-top: 20px;
+}
+
+.cc-row {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 20px;
+  text-align: center;
+}
+
+.cc-col {
+  background-color: #fff;
+  color: black;
+  position: relative;
+  top: 0;
+  transition: top 0.4s;
+}
+
+.cc-col:hover {
+  top: -15px;
+}
+
+.cc-margin {
+  margin: 110px 0;
+}
+
+.hr {
+  width: 30%;
+  border: 3px solid;
+}
+
+.contact-us {
+  color: #3c4059;
+}
+
+.col-f {
+  flex: 1;
+  transition: all 0.4s;
+  overflow: hidden;
+}
+
+.col-f:hover {
+  flex-grow: 3;
+}
+.cc-f {
+  height: 500px;
+}
+.g-desc {
+  position: relative;
+  top: -100px;
+  transition: all 0.4s;
+}
+.col-f:hover .g-desc {
+  top: 50%;
+}
+.col-f:nth-child(1) {
+  background-image: url("img/bar.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.col-f:nth-child(2) {
+  background-image: url("img/gym.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.col-f:nth-child(3) {
+  background-image: url("img/restaurant.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.col-f:nth-child(4) {
+  background-image: url("img/mettinghall.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}

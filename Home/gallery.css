@@ -1,0 +1,45 @@
+.col-f {
+    flex: 1;
+    transition: all 0.4s;
+    overflow: hidden;
+  }
+  
+  .col-f:hover {
+    flex-grow: 3;
+  }
+  .cc-f {
+    height: 500px;
+  }
+  .g-desc {
+    position: relative;
+    top: -100px;
+    transition: all 0.4s;
+  }
+  .col-f:hover .g-desc {
+    top: 50%;
+  }
+  .col-f:nth-child(1) {
+    background-image: url("img/bar.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+  .col-f:nth-child(2) {
+    background-image: url("img/gym.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+  .col-f:nth-child(3) {
+    background-image: url("img/restaurant.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+  .col-f:nth-child(4) {
+    background-image: url("img/mettinghall.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+  
