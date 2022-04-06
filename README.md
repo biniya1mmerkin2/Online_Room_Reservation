@@ -1,7 +1,7 @@
 # Online_Room_Reservation
-# online room reservation by using html bootstrap css  javascript and php backend
-1,create a database with the same name as the name of sql file in the project folder
-2,import the sql file 
+online room reservation by using html bootstrap css  javascript and php backend
+1 create a database with the same name as the name of sql file in the project folder
+2 import the sql file 
 run in the localhost/webOnlineReservation/index.php
 use the admin username : admin
 admin password: admin
