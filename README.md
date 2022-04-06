@@ -1,5 +1,5 @@
 # Online_Room_Reservation
-#online room reservation by using html bootstrap css  javascript and php backend
+# online room reservation by using html bootstrap css  javascript and php backend
 1,create a database with the same name as the name of sql file in the project folder
 2,import the sql file 
 run in the localhost/webOnlineReservation/index.php
@@ -8,7 +8,7 @@ admin password: admin
 
 # Work flow of the project
 inorder to use your email for forget password first you hava to configure your gmail account
-1,This is online room reservation user checkin and checkout first 
+1, This is online room reservation user checkin and checkout first 
 2,if the room is available in the specified date the user directed to signup page 
 3,user signup and login with username and password 
 4,in the profile page of user user clicks the cart info and request for booking 
