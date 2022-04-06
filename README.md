@@ -6,8 +6,8 @@ run in the localhost/webOnlineReservation/index.php
 use the admin username : admin
 admin password: admin
 
+# Work flow of the project
 inorder to use your email for forget password first you hava to configure your gmail account
-#Work flow of the project
 1,This is online room reservation user checkin and checkout first 
 2,if the room is available in the specified date the user directed to signup page 
 3,user signup and login with username and password 
