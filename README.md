@@ -19,4 +19,4 @@ inorder to use your email for forget password first you hava to configure your g
 9,if the expiry date achived user deleted from the list
 
 
-"if you dont get the email, please configure your account setting first"
+"if you dont get the email working , please configure your account setting first"
